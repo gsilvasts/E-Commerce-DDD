@@ -1,0 +1,17 @@
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\bin\Debug\netcoreapp5.0\ApplicationApp.deps.json
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\bin\Debug\netcoreapp5.0\ApplicationApp.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\bin\Debug\netcoreapp5.0\ref\ApplicationApp.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\bin\Debug\netcoreapp5.0\ApplicationApp.pdb
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\bin\Debug\netcoreapp5.0\Domain.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\bin\Debug\netcoreapp5.0\Entities.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\bin\Debug\netcoreapp5.0\Domain.pdb
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\bin\Debug\netcoreapp5.0\Entities.pdb
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\obj\Debug\netcoreapp5.0\ApplicationApp.csprojAssemblyReference.cache
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\obj\Debug\netcoreapp5.0\ApplicationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\obj\Debug\netcoreapp5.0\ApplicationApp.AssemblyInfoInputs.cache
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\obj\Debug\netcoreapp5.0\ApplicationApp.AssemblyInfo.cs
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\obj\Debug\netcoreapp5.0\ApplicationApp.csproj.CoreCompileInputs.cache
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\obj\Debug\netcoreapp5.0\ApplicationApp.csproj.CopyComplete
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\obj\Debug\netcoreapp5.0\ApplicationApp.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\obj\Debug\netcoreapp5.0\ref\ApplicationApp.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\ApplicationApp\obj\Debug\netcoreapp5.0\ApplicationApp.pdb

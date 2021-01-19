@@ -1,0 +1,14 @@
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Infrastructure\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Infrastructure\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache

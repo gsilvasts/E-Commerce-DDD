@@ -1,0 +1,358 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Web_ECommerce\\Web_ECommerce.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\ApplicationApp\\ApplicationApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\ApplicationApp\\ApplicationApp.csproj",
+        "projectName": "ApplicationApp",
+        "projectPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\ApplicationApp\\ApplicationApp.csproj",
+        "packagesPath": "C:\\Users\\gelva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\ApplicationApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gelva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {
+              "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\gelva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gelva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {
+              "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\gelva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gelva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\gelva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gelva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {
+              "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Web_ECommerce\\Web_ECommerce.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Web_ECommerce\\Web_ECommerce.csproj",
+        "projectName": "Web_ECommerce",
+        "projectPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Web_ECommerce\\Web_ECommerce.csproj",
+        "packagesPath": "C:\\Users\\gelva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Web_ECommerce\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gelva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\ApplicationApp\\ApplicationApp.csproj": {
+                "projectPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\ApplicationApp\\ApplicationApp.csproj"
+              },
+              "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\gelva\\source\\repos\\E-Commerce DDD\\E-Commerce DDD\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

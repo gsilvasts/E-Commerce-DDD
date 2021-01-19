@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gelva\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gelva\\.nuget\\packages"
+    ]
+  }
+}

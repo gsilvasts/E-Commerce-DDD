@@ -1,0 +1,15 @@
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\bin\Debug\netcoreapp5.0\Domain.deps.json
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\bin\Debug\netcoreapp5.0\Domain.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\bin\Debug\netcoreapp5.0\ref\Domain.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\bin\Debug\netcoreapp5.0\Domain.pdb
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\bin\Debug\netcoreapp5.0\Entities.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\bin\Debug\netcoreapp5.0\Entities.pdb
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\obj\Debug\netcoreapp5.0\Domain.csprojAssemblyReference.cache
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\obj\Debug\netcoreapp5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\obj\Debug\netcoreapp5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\obj\Debug\netcoreapp5.0\Domain.AssemblyInfo.cs
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\obj\Debug\netcoreapp5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\obj\Debug\netcoreapp5.0\Domain.csproj.CopyComplete
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\obj\Debug\netcoreapp5.0\Domain.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\obj\Debug\netcoreapp5.0\ref\Domain.dll
+C:\Users\gelva\source\repos\E-Commerce DDD\E-Commerce DDD\Domain\obj\Debug\netcoreapp5.0\Domain.pdb
